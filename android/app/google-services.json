@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944531655426",
+    "firebase_url": "https://e-challan-15a82.firebaseio.com",
+    "project_id": "e-challan-15a82",
+    "storage_bucket": "e-challan-15a82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944531655426:android:0aa6c25e9de6960b14901b",
+        "android_client_info": {
+          "package_name": "com.example.e_challan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944531655426-tksjck030m4llbaq5292j7f35jfjlabq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtgNtQhyi5KlcQ5bOqFeD-nXeMjWVoR_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944531655426-tksjck030m4llbaq5292j7f35jfjlabq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
