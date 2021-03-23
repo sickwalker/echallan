@@ -1,3 +1,3 @@
 # echallan
 
-An Android and iOS based flutter application to your vehicle's challan bills.
+An Android and iOS based flutter application to pay your vehicle's challan bills.
